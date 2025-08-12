@@ -6,7 +6,7 @@
   <img src="disease_map.png" alt="" width="400">
 </p>
 
-Protein-Protein Interaction Network Analysis
+### Protein-Protein Interaction Network Analysis
 
 This project explores functional and disease associations in a protein-protein interaction (PPI) network.
 By combining known annotations with terms inferred from network neighborhood enrichment, we build a richer disease profile for each protein.
