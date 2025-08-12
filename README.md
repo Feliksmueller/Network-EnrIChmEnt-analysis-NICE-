@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Func_Landscape.png" alt="" width="400">
+  <img src="Func_Landscape_title2.png" alt="" width="400">
   <img src="disease_map.png" alt="" width="400">
 </p>
 
