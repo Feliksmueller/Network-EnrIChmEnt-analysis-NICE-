@@ -1,9 +1,11 @@
 # Network Enrichment Analysis - Functional Landscapes
 
 
+<p align="center">
+  <img src="Func_Landscape.png" alt="PPI network diagram" width="500"><br>
+  <img src="disease_map.png" alt="UMAP projection" width="500">
+</p>
 
-<img src="Func_Landscape.png" alt="" width="500">
-<img src="disease_map.png" alt="" width="500">
 
 
 Protein-Protein Interaction Network Analysis
