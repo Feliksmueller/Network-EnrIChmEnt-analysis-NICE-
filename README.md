@@ -3,6 +3,8 @@
 
 ![Description of image](disease_map.png)
 
+<img src="disease_map.png" alt="" width="500">
+
 
 Protein-Protein Interaction Network Analysis
 
